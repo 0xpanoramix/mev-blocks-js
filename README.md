@@ -17,7 +17,7 @@ Please be careful, as you may be limited by the Flashbots server when performing
 You just have to run the following command:
 
 ```shell
-yarn add mev-block-js
+yarn add mev-blocks-js
 ```
 
 ### Quickstart
