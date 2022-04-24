@@ -1,6 +1,6 @@
 {
   "name": "mev-blocks-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple package to query Flashbots blocks and Flashbots transactions using TypeScript.",
   "main": "./dist/requester.js",
   "scripts": {
