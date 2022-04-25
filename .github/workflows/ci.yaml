@@ -28,6 +28,7 @@ jobs:
     name: Build the package
 
     runs-on: ubuntu-latest
+    needs: lint
 
     strategy:
       matrix:
